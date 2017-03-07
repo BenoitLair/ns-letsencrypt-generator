@@ -5,7 +5,7 @@
 #   CREATION : 07/03/2017
 #
 #
-from shutil import copyfile
+from shutil import copy
 import sys
 
 #source file
