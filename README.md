@@ -12,3 +12,11 @@ Ensuite il faut installer :
 
 pip install python-crontab
 
+
+Usage : 
+
+python test1.py letsencrypt-src/ns-letsencrypt/ ns-letsencrypt-nom-nouveau-certificat
+
+
+- letsencrypt-src/ns-letsencrypt/ est la source de ns-letsencrypt
+- ns-letsencrypt-nom-nouveau-certificat est le nouveau dossier à créer qui contiendra le nouveau certificat
